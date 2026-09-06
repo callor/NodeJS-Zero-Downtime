@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.cache/
+.env
+config/members.json
+*.log
+
+callor.ecosystem.config.js
