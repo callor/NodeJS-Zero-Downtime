@@ -1,4 +1,4 @@
-# NodeJS Zero Down Time Service with Windows
+# NodeJS, Zero Down Time Service with Windows
 
 - 윈도우에서 NodeJS 프로젝트의 무중단 시스템을 구축하자
 
