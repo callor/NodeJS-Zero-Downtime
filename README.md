@@ -4,7 +4,7 @@
 
 ## node-windows 를 이용한 서비스 등록
 
-1. [node-windows](./node-windows.md)
+### 1. [node-windows](./node-windows.md)
 
 ## pm2 를 이용한 프로젝트 관리
 
